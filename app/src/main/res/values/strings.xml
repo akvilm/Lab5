@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Valiutų kursai</string>
+    <string name="upload">Įkelti</string>
+    <string name="choose_currency">Pasirinkite valiutą:</string>
+    <string name="rate">Kursas:</string>
+    <string name="main">Valiutų kursai realiu laiku</string>
+</resources>
